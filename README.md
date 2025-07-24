@@ -15,4 +15,4 @@ python3 web.py
 
 #### 访问
 `https://xxx:5000/server/serip:25565`即可看到效果
-[](./img.png)
+![示例图片](./img.png)
