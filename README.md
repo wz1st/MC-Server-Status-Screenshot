@@ -12,6 +12,10 @@ pip install -r requirements.txt
 ```shell
 python3 web.py
 ```
+or
+```shell
+docker run -p 5000:5000 v1st233/mcstatus
+```
 
 #### 访问
 `https://xxx:5000/server/serip:25565`即可看到效果       
